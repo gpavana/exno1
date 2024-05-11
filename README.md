@@ -1,14 +1,14 @@
 
-# Exno:1 Data Cleaning Process
-# DATE:
+### Exno:1 Data Cleaning Process
+#### DATE:
 
-# AIM
+#### AIM
 To read the given data and perform data cleaning and save the cleaned data to a file.
 
-# Explanation
+#### Explanation
 Data cleaning is the process of preparing data for analysis by removing or modifying data that is incorrect ,incompleted , irrelevant , duplicated or improperly formatted. Data cleaning is not simply about erasing data ,but rather finding a way to maximize datasets accuracy without necessarily deleting the information.
 
-# Algorithm
+#### Algorithm
 STEP 1: Read the given Data
 
 STEP 2: Get the information about the data
@@ -21,7 +21,7 @@ STEP 5: Remove outliers using IQR
 
 STEP 6: Use zscore of to remove outliers
 
-# Coding and Output
+#### Coding and Output
 ```
 # Developed By: PAVANA.G
 # Register Number: 212222230105
@@ -155,7 +155,7 @@ Output
 ![image](https://github.com/gpavana/exno1/assets/118787343/9fc71dc7-05d5-4035-a55e-09e1f198b156)
 
 
-# Result
+#### Result
 The data clearning has beeen done successfully.
 
          
